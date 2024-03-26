@@ -1,1 +1,4 @@
-BLUB
+#Gane Designer
+### Projects
+MM i make video game :)
+ love vidf gmae
