@@ -4,6 +4,8 @@
 **Minigolf**
 - yup something something idk
 
+![Minigolf](/assets/img/Minigolf.png)
+
 **Twinstick Shooter**
 
 **Chess**
