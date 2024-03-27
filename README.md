@@ -12,26 +12,26 @@
 
 **Chess**
 
-![Minigolf](/assets/img/Minigolf.png)
+![Chess](/assets/img/Chess.png)
 
 **Donkey Kong**
 
-![Minigolf](/assets/img/Minigolf.png)
+![Donkey Kong](/assets/img/DK.png)
 
 **Tower Defense Roguelike**
 
-![Minigolf](/assets/img/Minigolf.png)
+![TD-Roguelike](/assets/img/TD-Roguelike.png)
 
 **Rampage**
 
-![Minigolf](/assets/img/Minigolf.png)
+![Rampage](/assets/img/Rampage.png)
 
 **Shrunken Sorcerer's Puppet Pummel**
 
-![Minigolf](/assets/img/Minigolf.png)
+![SSPP](/assets/img/SSPP.png)
 
 **Space Heist**
 
-![Minigolf](/assets/img/Minigolf.png)
+![Space Heist](/assets/img/Space-Heist.png)
 
 
