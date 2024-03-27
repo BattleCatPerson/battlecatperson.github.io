@@ -1,5 +1,13 @@
-# Game Designer
+# Game Programmer
 
 ### Projects
-MM i make video game :)
- love vidf gmae
+Minigolf
+Twinstick Shooter
+Chess
+Donkey Kong
+Tower Defense Roguelike
+Rampage
+Shrunken Sorcerer's Puppet Pummel
+
+
+
