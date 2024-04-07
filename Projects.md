@@ -1,7 +1,7 @@
 
 ### Projects
 **Minigolf**
-[TEST PAGE](testpage.md)
+
 - yup something something idk
 
 ![Minigolf](/assets/img/Minigolf.png)
