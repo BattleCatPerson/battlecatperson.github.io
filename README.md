@@ -32,6 +32,6 @@
 
 **Space Heist**
 
-![Space Heist](/assets/img/Space-Heist.png)
+![Space-Heist](/assets/img/Space-Heist.png)
 
 
