@@ -1,5 +1,5 @@
 
-### Projects
+# Projects
 **Minigolf**
 
 - yup something something idk
