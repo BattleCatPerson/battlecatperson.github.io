@@ -1,11 +1,7 @@
 
 # Projects
 **Minigolf**
-
-- yup something something idk
-
 ![Minigolf](/assets/img/Minigolf.png)
-
 **Twin-stick Shooter**
 
 ![Twin-stick Shooter](/assets/img/Twinstick-Shooter.png)
