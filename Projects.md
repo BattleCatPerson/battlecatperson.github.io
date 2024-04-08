@@ -5,15 +5,18 @@
 ![Minigolf](/assets/img/Minigolf.png)
 
 This was a short project created in collaboration with a few other people in an engineering class I was taking. They provided the models while I programmed the game. To play, adjust the intensity of the shot and aim and try to make it to the end of each golf course.
+
 **Twin-stick Shooter**
 
 ![Twin-stick Shooter](/assets/img/Twinstick-Shooter.png)
 
-
+This was another short project where you simply control a character in a top-down perspective and have to shoot the enemies before they defeat you. I enjoyed making some of the visual aspects of the game.
 
 **Chess**
 
 ![Chess](/assets/img/Chess.png)
+
+This was the second collaboration between me and my fellow students in my engineering class. I used their models again, which were the chess pieces. In this interesting spin on chess, the goal is not to get a checkmate, but to instead eliminate all of the opposing pieces first! I also added an alternative mode where tiles on the board are progressively lit on fire, preventing pieces from moving to them and eliminating any pieces that are on them.
 
 **Canadian Kong**
 
@@ -41,6 +44,8 @@ This game was created with a different team than Rampage, but still at the Carne
 
 *Here is a [link](https://drive.google.com/file/d/1a_KdRTTd2Y-TLGrKvUbb9tz7or5om3ik/view?usp=sharing) to the final trailer of the game, which really shows off how chaotic it is!*
 
-**Space Heist**
+**Space Heist (Temporary Name)**
 
 ![Space-Heist](/assets/img/Space-Heist.png)
+
+This is the project I am currently working on. In this simple arcade-style game, you control a character with the "flipometer", which spins the character. The goal of the game is to gain as many flips before hitting the ground, making sure to not land on the ground unevenly! The police car chasing you will also release laser drones, which you will need to block with your laser shield.
