@@ -1,5 +1,5 @@
 title: Marcus Li
-logo: (/assets/img/walter.jpg)
+logo: ![walter](/assets/img/walter.jpg)
 description: Game Developer
 show_downloads: false
 theme: jekyll-theme-minimal
