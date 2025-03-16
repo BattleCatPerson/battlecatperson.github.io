@@ -46,6 +46,6 @@ This game was created with a different team than Rampage, but still at the Carne
 
 **Filch Flipper**
 
-![Space-Heist](/assets/img/Space-Heist.png)
+![Space-Heist](/assets/img/Filch-Flipper.png)
 
 This is my first actual release! Run away from the police after robbing the space bank by using the conveniently placed ramps on the ground to gain speed. Use the "flipometer" to flip around and get points when you hit the ground, but make sure to land as flat as possible to not lose! You also have to block the police car's laser drones with your shield using the circular meter on the left. After a few times, you can blow up the police car yourself! Outside of the main gameplay, you can collect money by tapping the screen where it appears and spend it on the cosmetic shop to collect a bunch of fun skins. Also, blow up police cars to get scrap and go to the upgrade shop to buy permanent upgrades! It's pretty fun, so go check it out on the IOS App Store if you want!
