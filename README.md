@@ -3,5 +3,3 @@ Hi, I'm Marcus. I have been making games with the software Unity since 2018, and
 # [Projects](Projects.md)
 Click the link above to view a few of the projects I have developed over my years with Unity.
   
-
-![walter](/assets/img/walter.jpg)
