@@ -2,6 +2,10 @@
 # Projects
 Newer projects are higher than older ones
 
+**Gambling Card Roguelike**
+
+This is my current project, which is very early on in development at the moment. Basically, I took inspiration from card games like Slay the Spire and wanted to make a similar game of my own. However, to differentiate myself, there is a larger amount of luck involved in the gameplay. Every card will have different effects based on the result of a form of gambling. This could range from a coin flip, a die roll, or even a slot machine result! There isn't much yet, but I'm pretty excited to see how far I'll take this. 
+
 **Vegetable Samurai**
 
 This was made with a four-person team in an engineering course at The Ohio State University. It's a parody of the popular mobile game, Fruit Ninja, but with vegetables instead. Unlike my other projects, this was made in C++ using a game engine provided by the university. We were essentially given only a week to finish this game, and I am happy with the result. It features physics-simulated vegetables that can be sliced by dragging your mouse through them. However, I programmed it in a way where you must drag your mouse quickly enough for a slice to be registered. Additionally, I added detection of whether the slice was more horizontal or vertical, which leads to different animations of the vegetable after it is sliced. Other than the main gameplay, I also included player customization options that could be purchased through currency earned by playing the game. This game ended up winning 3rd place at the Ohio State University Foundations Design Showcase! 
