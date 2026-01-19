@@ -8,9 +8,13 @@ This is my current project, which is very early on in development at the moment.
 
 **Vegetable Samurai**
 
+![Vegetable-Samurai](/assets/img/Vegetable-Samurai)
+
 This was made with a four-person team in an engineering course at The Ohio State University. It's a parody of the popular mobile game, Fruit Ninja, but with vegetables instead. Unlike my other projects, this was made in C++ using a game engine provided by the university. We were essentially given only a week to finish this game, and I am happy with the result. It features physics-simulated vegetables that can be sliced by dragging your mouse through them. However, I programmed it in a way where you must drag your mouse quickly enough for a slice to be registered. Additionally, I added detection of whether the slice was more horizontal or vertical, which leads to different animations of the vegetable after it is sliced. Other than the main gameplay, I also included player customization options that could be purchased through currency earned by playing the game. This game ended up winning 3rd place at the Ohio State University Foundations Design Showcase! 
 
 **Submarine Roguelike Game**
+
+![Submarine](/assets/img/Submarine.png)
 
 This game features a submarine fighting off evil fish and other aquatic creatures. It has fun, physics-based movement options along with a variety of weapons to spice up gameplay! There are a bunch of different enemies with distinct behaviors, along with randomly generated combat encounters with many room layouts to fight in. My friend helped me create art and music for this project, which is why it has a considerable step up in visual quality compared to my previous projects. What I really had fun with while working on this game was messing around with a lot of Unity visual features. Things like Cinemachine and global volumes allowed me to add a lot more impact to every part of the gameplay.
 
