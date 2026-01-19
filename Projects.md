@@ -2,12 +2,19 @@
 # Projects
 Newer projects are higher than older ones
 
+**Vegetable Samurai**
+
+This was made with a four-person team in an engineering course at The Ohio State University. It's a parody of the popular mobile game, Fruit Ninja, but with vegetables instead. Unlike my other projects, this was made in C++ using a game engine provided by the university. We were essentially given only a week to finish this game, and I am happy with the result. It features physics-simulated vegetables that can be sliced by dragging your mouse through them. However, I programmed it in a way where you must drag your mouse quickly enough for a slice to be registered. Additionally, I added detection of whether the slice was more horizontal or vertical, which leads to different animations of the vegetable after it is sliced. Other than the main gameplay, I also included player customization options that could be purchased through currency earned by playing the game. This game ended up winning 3rd place at the Ohio State University Foundations Design Showcase! 
+
+**Submarine Roguelike Game**
+
+This game features a submarine fighting off evil fish and other aquatic creatures. It has fun, physics-based movement options along with a variety of weapons to spice up gameplay! There are a bunch of different enemies with distinct behaviors, along with randomly generated combat encounters with many room layouts to fight in. My friend helped me create art and music for this project, which is why it has a considerable step up in visual quality compared to my previous projects. What I really had fun with while working on this game was messing around with a lot of Unity visual features. Things like Cinemachine and global volumes allowed me to add a lot more impact to every part of the gameplay.
+
 **Filch Flipper**
 
 ![Space-Heist](/assets/img/Filch-Flipper.png)
-**[Here is a link to the game on the IOS App Store!](https://apps.apple.com/us/app/filch-flipper/id6736406919?uo=4)**
 
-This is my first actual release! Run away from the police after robbing the space bank by using the conveniently placed ramps on the ground to gain speed. Use the "flipometer" to flip around and get points when you hit the ground, but make sure to land as flat as possible to not lose! You also have to block the police car's laser drones with your shield using the circular meter on the left. After a few times, you can blow up the police car yourself! Outside of the main gameplay, you can collect money by tapping the screen where it appears and spend it on the cosmetic shop to collect a bunch of fun skins. Also, blow up police cars to get scrap and go to the upgrade shop to buy permanent upgrades! It's pretty fun, so go check it out on the IOS App Store if you want!
+This is my first actual release! Run away from the police after robbing the space bank by using the conveniently placed ramps on the ground to gain speed. Use the "flipometer" to flip around and get points when you hit the ground, but make sure to land as flat as possible to not lose! You also have to block the police car's laser drones with your shield using the circular meter on the left. After a few times, you can blow up the police car yourself! Outside of the main gameplay, you can collect money by tapping the screen where it appears and spend it on the cosmetic shop to collect a bunch of fun skins. Also, blow up police cars to get scrap and go to the upgrade shop to buy permanent upgrades! It was on the App Store, but is unfortunately no longer there for now.
 
 
 
