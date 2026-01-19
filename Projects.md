@@ -8,7 +8,7 @@ This is my current project, which is very early on in development at the moment.
 
 **Vegetable Samurai**
 
-![Vegetable-Samurai](/assets/img/Vegetable-Samurai)
+![Vegetable-Samurai](/assets/img/Vegetable-Samurai.png)
 
 This was made with a four-person team in an engineering course at The Ohio State University. It's a parody of the popular mobile game, Fruit Ninja, but with vegetables instead. Unlike my other projects, this was made in C++ using a game engine provided by the university. We were essentially given only a week to finish this game, and I am happy with the result. It features physics-simulated vegetables that can be sliced by dragging your mouse through them. However, I programmed it in a way where you must drag your mouse quickly enough for a slice to be registered. Additionally, I added detection of whether the slice was more horizontal or vertical, which leads to different animations of the vegetable after it is sliced. Other than the main gameplay, I also included player customization options that could be purchased through currency earned by playing the game. This game ended up winning 3rd place at the Ohio State University Foundations Design Showcase! 
 
